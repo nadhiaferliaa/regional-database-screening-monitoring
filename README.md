@@ -5,8 +5,6 @@ The increasing availability of structured regional data has created broader oppo
 
 This project was developed as a compact database study that examines how relational and spatial data can be organized into a coherent analytical framework. The repository combines district-level context, branch-level location data, applicant records, and loan observations in order to demonstrate a complete workflow of database preparation, rule-based screening, and district-level monitoring.
 
-Rather than approaching the dataset as a product prototype, the project is positioned as an academic-style analytical study with emphasis on schema design, query logic, and interpretability of outputs.
-
 ## Project Objectives
 The main objectives of this project are:
 
